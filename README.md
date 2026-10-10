@@ -92,8 +92,6 @@ python -m http.server 8000
 
 ## 📄 Лицензия
 
-Проект распространяется под условиями открытой лицензии [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
+Проект распространяется под условиями открытой лицензии [MIT License].
 
 ```
